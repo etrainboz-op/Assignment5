@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a senior data science major at Montana Tech, currently learning about software engineering. 
+I'm a senior data science major at Montana Tech, currently learning about software engineering. I have a solid experience in computer science as well as mathematical sciences. 
 
 ## Education
 
